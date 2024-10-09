@@ -10,7 +10,8 @@ Radar-Tensor
 
 <div align="left">
 <p align="center">
-  <img src="asset/output.gif" />
+  ![output](https://github.com/user-attachments/assets/7a62874b-cd2c-4adc-a4c5-d613600f93dc)
+
 </p>
  
 This repository hosts a C++ implementation of the state-of-the-art Radar object detection model from ultralytics, leveraging the TensorRT API for efficient, real-time inference.
